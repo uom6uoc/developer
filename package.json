@@ -1,0 +1,23 @@
+{
+  "name": "github-init",
+  "version": "1.0.0",
+  "description": "github init",
+  "main": "index.js",
+  "license": "MIT",
+  "private": true,
+  "directions": {
+    "dir_root": "./"
+  },
+  "scripts": {
+    "get:weeknum": "node command/version-checker/iso-weeknumber.js ",
+    "label": "node command/labels/github-labels.js",
+    "package:upgrade": "yarn upgrade-interactive && syncyarnlock -s -k && yarn install",
+    "package:latest": "yarn upgrade-interactive --latest && syncyarnlock -s -k && yarn install"
+  },
+  "devDependencies": {
+    "ciql-json": "^1.9.6",
+    "dotenv": "^16.0.3",
+    "github-label-sync": "^2.3.1",
+    "path": "^0.12.7"
+  }
+}

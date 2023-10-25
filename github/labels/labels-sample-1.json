@@ -1,0 +1,32 @@
+[
+  {
+    "name": "ADD",
+    "color": "176CB9",
+    "description": "Add"
+  },
+  {
+    "name": "BUG",
+    "color": "d73a4a",
+    "description": "Bug"
+  },
+  {
+    "name": "CLEAN",
+    "color": "ECDF8A",
+    "description": "Refactoring"
+  },
+  {
+    "name": "DOCS",
+    "color": "833477",
+    "description": "Documents"
+  },
+  {
+    "name": "INIT",
+    "color": "AFBBB2",
+    "description": "Init"
+  },
+  {
+    "name": "UPDATE",
+    "color": "1D9891",
+    "description": "Update"
+  }
+]

@@ -1,0 +1,32 @@
+[
+  {
+    "name": "기능",
+    "color": "a2eeef",
+    "description": "신규 기능"
+  },
+  {
+    "name": "리팩토링",
+    "color": "1DD0D9",
+    "description": "프로젝트 코드 리팩토링"
+  },
+  {
+    "name": "문서",
+    "color": "0075ca",
+    "description": "프로젝트 문서 수정"
+  },
+  {
+    "name": "배포",
+    "color": "498B4D",
+    "description": "신규 배포"
+  },
+  {
+    "name": "버그",
+    "color": "d73a4a",
+    "description": "버그 수정"
+  },
+  {
+    "name": "핫픽스",
+    "color": "D22BE6",
+    "description": "핫픽스 배포"
+  }
+]

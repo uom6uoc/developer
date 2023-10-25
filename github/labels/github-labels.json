@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Chore",
+        "color": "E3DEDE",
+        "description": "정기적인 코드 유지 관리(빌드 수정, 패키지 추가, 환경변수 설정)"
+    },
+    {
+        "name": "Docs",
+        "color": "007BFF",
+        "description": "문서와 관련된 모든 것"
+    },
+    {
+        "name": "Feat",
+        "color": "198754",
+        "description": "새로운 기능 추가 또는 기능 업데이트"
+    },
+    {
+        "name": "File",
+        "color": "BFDADC",
+        "description": "파일 이동 또는 제거, 파일명 변경"
+    },
+    {
+        "name": "Fix",
+        "color": "DC3545",
+        "description": "버그 또는 에러 수정"
+    },
+    {
+        "name": "Pending",
+        "color": "000000",
+        "description": "작업 순위가 낮아 천천히 진행할 이슈"
+    },
+    {
+        "name": "Refactor",
+        "color": "17A2B8",
+        "description": "코드 리팩토링(똑같은 기능인데 코드만 개선), 코드 포맷팅, 코드 오타, 함수명 수정 포함"
+    },
+    {
+        "name": "Style",
+        "color": "6F42C1",
+        "description": "디자인, 문장 수정등 보여지는 UI수정 수정"
+    },
+    {
+        "name": "Test",
+        "color": "FBCA04",
+        "description": "코드에 포함되지 않을 테스트 이슈"
+    }
+]
